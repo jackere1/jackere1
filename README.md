@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackere1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html,css,js,sql,c++
+- 🌱 I’m currently learning Cooking
 - 💞️ I’m looking to collaborate on projects later
 - 📫 How to reach me  20b1num0102@stud.num.edu.mn
 <img src="https://media4.giphy.com/media/llKJGxQ1ESmac/giphy.gif" />
