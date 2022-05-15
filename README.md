@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cooking
 - 💞️ I’m looking to collaborate on projects later
 - 📫 How to reach me  20b1num0102@stud.num.edu.mn
-<img src="https://media4.giphy.com/media/llKJGxQ1ESmac/giphy.gif" />
+<img src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" />
 
 <!---
 jackere1/jackere1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
