@@ -226,8 +226,7 @@ class About extends Me
 
 <h2 align='center'>Au revoir❤</h2>
 <p align="center">
-	<iframe src="https://gifer.com/embed/3MfE" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe>
-  <img src="https://i.gifer.com/3MfE.gif" width="70%" height="auto">
+  <img src="https://user-images.githubusercontent.com/91013518/177373650-f952ea3e-a9d2-4db9-bb31-5358009ace33.gif" width="25%" height="auto">
 </p>	
  
 <br>
