@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @jackere1
-- 👀 I’m interested in Video games
-- 🌱 I’m currently learning Cooking
-- 💞️ I’m looking to collaborate on projects later
 <img src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="text-align: center"/>
 
 <!---
@@ -11,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">
- 👋 Hi, I'm mahmoud miehob!
+ 👋 Hi, I'm William "JacKeR*" Moriarty!
 </h1>
  
 
@@ -19,9 +15,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
 </p>
 
-
 </br> 
 
+<a href="#"><img  width="100%" height="auto" src="
+https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" height="175px"/></a>
 <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 </br>
@@ -34,7 +31,9 @@ You can click the Preview link to take a look at your changes.
 ✔  All of my projects are available at https://github.com/jackere1 <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@mahmoudmiehob](https://www.facebook.com/pagenotrespond) <br>
                          &nbsp; &nbsp; * [Email-@mahmoudmiehob](jackerenh@gmail.com) <br>
-✔  Status: Still junior/newbie
+✔  Status: junior/newbie
+✔  Interest: Video games
+✔  Don't expect too much from me xD
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
