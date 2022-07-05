@@ -9,7 +9,8 @@
 
 </br> 
 
-<a href="#" align="center"><img width="50%" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="margin: 0 auto;"/></a>
+<a href="#" align="center"><img width="50%" height="auto" src="https://media4.giphy.com/media/kZqbBT64ECtjy/200w.gifcid=82a1493b7fgdo18ilfvaeppykl42914nkyamfvs4kqvc1hz3&rid=200w.gif&ct=g" style="margin: 0 auto;"/></a>
+<!-- <a href="#" align="center"><img width="50%" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="margin: 0 auto;"/></a> -->
 <!-- <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 </br>
@@ -223,7 +224,7 @@ class About extends Me
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=jackere1&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
-<h2 align='left'>Ciaoooo ❤</h2>
+<h2 align='left'>Baaay ❤</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
