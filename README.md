@@ -1,5 +1,5 @@
 <h1 align="center">
- 👋 Hi, I'm William "JacKeR*" Moriarty!
+ 👋 Bonsoir, I'm William "JacKeR*" Moriarty!
 </h1>
  
 
@@ -224,9 +224,9 @@ class About extends Me
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=jackere1&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
-<h2 align='left'>Baaay ❤</h2>
+<h2 align='center'>Au revoir❤</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+  <img src="https://i.gifer.com/3MfE.gif" width="70%" height="65px">
 </p>	
  
 <br>
