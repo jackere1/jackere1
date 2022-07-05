@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 </br> 
 
-<a href="#"><img  width="100%" height="auto" src="
-https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" height="175px"/></a>
+<a href="#"><img  width="100%" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" height="175px"/></a>
 <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 </br>
