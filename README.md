@@ -4,13 +4,13 @@
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Junior+Engineer;Backend+Developer;Vanilla+Dude" > 
 </p>
 
 </br> 
 
-<a href="#"><img  width="200px" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" height="auto" style="margin: 0 auto;"/></a>
-<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img  align="center" width="200px" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="margin: 0 auto;"/></a>
+<!-- <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 </br>
 
@@ -20,11 +20,11 @@
 
 >✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  All of my projects are available at https://github.com/jackere1 <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@mahmoudmiehob](https://www.facebook.com/pagenotrespond) <br>
-                         &nbsp; &nbsp; * [Email-@mahmoudmiehob](jackerenh@gmail.com) <br>
-✔  Status: junior/newbie
-✔  Interest: Video games
-✔  Don't expect too much from me xD
+✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@Энх Болд](https://www.facebook.com/pagenotrespond) <br>
+                         &nbsp; &nbsp; * [Email-@JacKeR*](jackerenh@gmail.com) <br>
+✔  Status: junior/newbie <br>
+✔  Interest: Video games <br>
+✔  Don't expect too much from me xD <br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -32,7 +32,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/jackere1"><img alt="mahmoud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jackere1&custom_title=jackere1's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/jackere1"><img alt="jacker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jackere1&custom_title=jackere1's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -138,16 +138,16 @@ class About extends Me
       </a>
       <br>Javascript
     </td>
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
-    </td>
+    </td> -->
   </tr>
 
   <tr>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
@@ -159,21 +159,21 @@ class About extends Me
                 alt="livewire" />
         </a>
         <br>Livewire
-    </td>
+    </td> -->
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      <a href="#mysql">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Mysql" />
       </a>
       <br>MySQL
     </td>
   </tr>
    <tr>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
-    </td>
+    </td> -->
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -209,22 +209,21 @@ class About extends Me
 
 
 
-## Connect with me:
+<!-- ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="https://www.facebook.com/profile.php?id=100010194910703"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="mailto:mahmoudmiehob@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
   <a href="https://www.youtube.com/channel/UCuGcIO6rrQkwZr4ex5oaB3w"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
 
-</p>
+</p> -->
 
 ## ❤ Views and Followers
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=jackere1&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
-<h2 align='left'>Thank You ❤</h2>
+<h2 align='left'>Ciaoooo ❤</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
