@@ -226,7 +226,7 @@ class About extends Me
 
 <h2 align='center'>Au revoir❤</h2>
 <p align="center">
-  <img src="https://i.gifer.com/3MfE.gif" width="70%" height="65px">
+  <img src="https://i.gifer.com/3MfE.gif" width="70%" height="auto">
 </p>	
  
 <br>
