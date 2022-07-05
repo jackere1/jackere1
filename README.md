@@ -1,11 +1,3 @@
-<img src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="text-align: center"/>
-
-<!---
-jackere1/jackere1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <h1 align="center">
  👋 Hi, I'm William "JacKeR*" Moriarty!
 </h1>
@@ -17,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 </br> 
 
-<a href="#"><img  width="200px" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" height="auto"/></a>
+<a href="#"><img  width="200px" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" height="auto" style="margin: 0 auto;"/></a>
 <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 </br>
