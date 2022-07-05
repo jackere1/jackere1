@@ -9,7 +9,7 @@
 
 </br> 
 
-<a href="#" align=center><img width="200px" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="margin: 0 auto;"/></a>
+<a href="#" align=center><img width="50%" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="margin: 0 auto;"/></a>
 <!-- <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 </br>
