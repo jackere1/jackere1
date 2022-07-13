@@ -9,7 +9,7 @@
 
 </br> 
 
-<p align="center"><img src="https://64.media.tumblr.com/8139ee3200506609c6cf85d18eb91527/tumblr_mfzc38CdJr1rdjeoao1_400.gif"/></p>
+<p align="center"><img width="50%" src="https://64.media.tumblr.com/8139ee3200506609c6cf85d18eb91527/tumblr_mfzc38CdJr1rdjeoao1_400.gif"/></p>
 <!-- <a href="#" align="center"><img width="50%" height="auto" src="https://miro.medium.com/max/1000/1*XrEWAu1sgFkZ4IQtG3DMmg.gif" style="margin: 0 auto;"/></a> -->
 <!-- <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
