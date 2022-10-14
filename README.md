@@ -223,7 +223,7 @@ class About extends Me
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=jackere1&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
-<h2 align='center'>Au revoir❤</h2>
+<h2 align='center'>Ciaoo❤</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91013518/177373650-f952ea3e-a9d2-4db9-bb31-5358009ace33.gif" width="25%" height="auto">
 </p>	
