@@ -1,10 +1,10 @@
 <h1 align="center">
- 👋 Bonsoir, I'm William "JacKeR*" Moriarty!
+ 👋 Bonsoir, I'm Cold!
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Junior+Engineer;Backend+Developer;Vanilla+Dude" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Amateur;Not+really+cold;" > 
 </p>
 
 </br> 
@@ -168,12 +168,12 @@ class About extends Me
     </td>
   </tr>
    <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#ubuntu" >
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
-    </td> 
+    </td>  -->
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
