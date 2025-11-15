@@ -23,8 +23,7 @@
 ✔  All of my projects are available at https://github.com/jackere1 <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@Энх Болд](https://www.facebook.com/pagenotrespond) <br>
                          &nbsp; &nbsp; * [Email-@JacKeR*](jackerenh@gmail.com) <br>
-✔  Status: junior/newbie <br>
-✔  Interest: Video games <br>
+✔  Interest: 🍲🍵 <br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
