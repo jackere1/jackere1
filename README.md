@@ -14,28 +14,32 @@
 
 <img align="right" width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-> ✔ Binge writer
-> ✔ All projects: [https://github.com/jackere1](https://github.com/jackere1)
-> ✔ Home base: [https://encold.guru](https://encold.guru)
-> ✔ Reach me:
->   • [Facebook – Энх Болд](https://www.facebook.com/pagenotrespond)
->   • Email – [enkhbold.n@num.edu.mn](mailto:enkhbold.n@num.edu.mn)
-> ✔ Interests: ☕ good food, calm games, long walks, drawing boxes-and-arrows
+> ✔ Binge writer<br/>
+> ✔ All projects: [https://github.com/jackere1](https://github.com/jackere1)<br/>
+> ✔ Home base: [https://encold.guru](https://encold.guru)<br/>
+> ✔ Reach me:<br/>
+>   • [Facebook – Энх Болд](https://www.facebook.com/pagenotrespond)<br/>
+>   • Email – [enkhbold.n@num.edu.mn](mailto:enkhbold.n@num.edu.mn)<br/>
+> ✔ Interests: ☕ good food, drawing boxes-and-arrows<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <summary><b>⚡ Activity</b></summary>
 <br/>
 <a href="https://github.com/jackere1">
-  <img alt="jacker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jackere1&custom_title=jackere1's%20Contribution%20Graph&theme=react-dark" />
+  <img alt="jacker's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jackere1&bg_color=000000&color=db34eb&line=db34eb&point=db34eb&area=true&hide_border=true" />
 </a>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jackere1&theme=darkhub" alt="jacker" />
+  <a href="https://github.com/jackere1">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=jackere1&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=jackere1&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=jackere1&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
   </a>
 </p>
 
@@ -100,19 +104,19 @@ class About extends Engineer
 
 <table align="center">
   <tr>
-    <td align="center" width="140">🧠<br/><b>Design principles</b><br/>boring-by-default<br/>fail-fast, recover-faster<br/>measure > guess</td>
-    <td align="center" width="140">📐<br/><b>Architecture</b><br/>monolith → microservices<br/>event-driven<br/>API-first</td>
-    <td align="center" width="140">⚙️<br/><b>Runtime</b><br/>Node.js<br/>PHP (Symfony)<br/>Go (Gin)</td>
+    <td align="center" width="180">🧠<br/><b>Design principles</b><br/>boring-by-default<br/>fail-fast, recover-faster<br/>measure > guess</td>
+    <td align="center" width="180">📐<br/><b>Architecture</b><br/>monolith → microservices<br/>event-driven<br/>API-first</td>
+    <td align="center" width="180">⚙️<br/><b>Runtime</b><br/>Node.js<br/>PHP (Symfony)<br/>Go (Gin)</td>
   </tr>
   <tr>
-    <td align="center" width="140">🗄️<br/><b>Data (SQL)</b><br/>PostgreSQL<br/>MySQL</td>
-    <td align="center" width="140">📦<br/><b>Data (NoSQL)</b><br/>MongoDB<br/>DynamoDB<br/>S3 / object storage</td>
-    <td align="center" width="140">📨<br/><b>Messaging</b><br/>Kafka<br/>Redis (queues & cache)</td>
+    <td align="center" width="180">🗄️<br/><b>Data (SQL)</b><br/>PostgreSQL<br/>MySQL</td>
+    <td align="center" width="180">📦<br/><b>Data (NoSQL)</b><br/>MongoDB<br/>DynamoDB<br/>S3 / object storage</td>
+    <td align="center" width="180">📨<br/><b>Messaging</b><br/>Kafka<br/>Redis (queues & cache)</td>
   </tr>
   <tr>
-    <td align="center" width="140">📊<br/><b>Observability</b><br/>Grafana<br/>Prometheus<br/>OTEL + Jaeger</td>
-    <td align="center" width="140">🚢<br/><b>Delivery</b><br/>Docker<br/>CI/CD<br/>AWS / DO</td>
-    <td align="center" width="140">🤖<br/><b>AI copilots</b><br/>Claude<br/>Gemini</td>
+    <td align="center" width="180">📊<br/><b>Observability</b><br/>Grafana<br/>Prometheus<br/>OTEL + Jaeger</td>
+    <td align="center" width="180">🚢<br/><b>Delivery</b><br/>Docker<br/>CI/CD<br/>AWS / DO</td>
+    <td align="center" width="180">🤖<br/><b>AI copilots</b><br/>Claude<br/>Gemini</td>
   </tr>
 </table>
 
